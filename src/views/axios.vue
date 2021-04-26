@@ -1,5 +1,5 @@
 <template>
-  <div></div>
+  <div>触发调试</div>
 </template>
 <script lang="ts">
 import { defineComponent } from 'vue'
